@@ -7,6 +7,6 @@
 ##### Tools Used
 ###### Anaconda, Jupyter Notebook, Python
 
-
-
-https://www.canva.com/design/DAGZHU8CNpo/409SK8QTDdzmsNkdx_m6CQ/edit?utm_content=DAGZHU8CNpo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+##### Presentations
+https://www.canva.com/design/DAGWSwD2GoE/IjOlEH03EpEnD44hobSsAw/view?utm_content=DAGWSwD2GoE&utm_campaign=designshare&utm_medium=link&utm_source=editor
+https://www.canva.com/design/DAGZHU8CNpo/TwNjFxEJzoMYy3SrNknIVg/view?utm_content=DAGZHU8CNpo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h016b9d1dc5
